@@ -1,5 +1,5 @@
 # AdminSys
-Commandes utilisés dans le cadre des cours d'administrations système
+Commandes utilisées dans le cadre des cours d'administrations système
 
 # Machines utilisées
 ## Ubuntu
