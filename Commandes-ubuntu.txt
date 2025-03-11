@@ -1,0 +1,450 @@
+    1  psswd reset
+    2  psswd
+    3  passwd
+    4  ls
+    5  sudo apt update
+    6  sudo apt install apache2
+    7  sudo ufw app list
+    8  ufw
+    9  sudo apt install ufw
+   10  sudo ufw app list
+   11  sudo ufw allow 'Apache'
+   12  systemctl status apache2
+   13  ip -a
+   14  ipa
+   15  ifconfig
+   16  if -a
+   17  ip a
+   18  apt-get source apache2
+   19  apt-get build-dep apache2
+   20  sudo apt-get build-dep apache2
+   21  cd ..
+   22  ls
+   23  cd ..
+   24  ls
+   25  cd etc/
+   26  n
+   27  cd apt
+   28  ls
+   29  nano sources.list
+   30  sudo apt install nano
+   31  nano sources.list
+   32  sudo nano sources.list
+   33  sudo apt-get update
+   34  sudo apt-get build-dep apache2
+   35  sudo nano sources.list
+   36  sudo apt-get update
+   37  sudo nano sources.list
+   38  /etc/apt/sources.list.d$ cat ubuntu.sources
+   39  sources.list.d$ cat ubuntu.sources
+   40  /sources.list.d$ cat ubuntu.sources
+   41  cd ../..
+   42  cd ..
+   43  ls
+   44  cd usr/
+   45  cd cd ..
+   46  cd h
+   47  cd home
+   48  cd ..
+   49  cd home/
+   50  cd ubuntu/
+   51  /etc/apt/sources.list.d$ cat ubuntu.sources
+   52  cd /etc/apt/
+   53  ls
+   54  /etc/apt/sources.list.d cat ubuntu.sources
+   55  /etc/apt/sources.list.d* cat ubuntu.sources
+   56  /etc/apt/sources.list.d.* cat ubuntu.sources
+   57  /etc/apt/sources.list.d.$ cat ubuntu.sources
+   58  /etc/apt/sources.list.d$ cat ubuntu.sources
+   59  /etc/apt/sources.list.d cat ubuntu.sources
+   60  cd sources.list
+   61  cd sources.list.d/
+   62  ls
+   63  sudo apt-get update
+   64  sudo apt-get build-dep apache2
+   65  cd ..
+   66  ls
+   67  sudo nano sources.list
+   68  sudo apt-get update
+   69  sudo nano sources.list
+   70  sudo apt-get update
+   71  sudo apt-get build-dep apache2
+   72  ls
+   73  cd ../..
+   74  cd home/
+   75  cd ubuntu/
+   76  ls
+   77  mkdir ~/tp; cd~/tp
+   78  mkdir ~/tp
+   79  cd ~/tp
+   80  ls
+   81  apt-get source apache2
+   82  ls
+   83  cd apache2-2.4.58/debian/config-dir/conf-available/
+   84  ls
+   85  sudo nano security.conf
+   86  sudo nano localized-error-pages.conf
+   87  sudo nano serve-cgi-bin.conf
+   88  cd ..
+   89  cd sites-available/
+   90  ls
+   91  sudo nano default-ssl.conf
+   92  sudo nano 000-default.conf
+   93  cd ..
+   94  cd conf-available/
+   95  ls
+   96  cd charset.conf
+   97  sudo nano charset.conf
+   98  sudo nano security.conf
+   99  cd ..
+  100  cd sites-available/
+  101  ls
+  102  sudo nano default-ssl.conf
+  103  sudo nano 000-default.conf
+  104  sudo nano default-ssl.conf
+  105  cd ..
+  106  cd conf-available/
+  107  sudo nano security.conf
+  108  cd ..
+  109  cd sites-available/
+  110  sudo nano default-ssl.conf
+  111  cd ..
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd config
+  118  ls
+  119  cd config
+  120  cd configure
+  121  cd include/
+  122  ls
+  123  cd ..
+  124  cd build
+  125  ls
+  126  cd ..
+  127  cd /etc/php/
+  128  cd /etc
+  129  ls
+  130  cd ..
+  131  cd ~/tp
+  132  ls
+  133  cd apache2
+  134  cd apache2-2.4.58/
+  135  ls
+  136  cd server/
+  137  ls
+  138  cd ..
+  139  cd os
+  140  ls
+  141  cd win32/
+  142  ls
+  143  cd ..
+  144  php
+  145  locate php.ini
+  146  sudo apt install locate
+  147  locate php.ini
+  148  systemctl restart apache2
+  149  sudo systemctl restart apache2
+  150  systemctl status apache2
+  151  ls
+  152  cd ~/
+  153  ls
+  154  cd ..
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd var/
+  159  ls
+  160  cd www
+  161  ls
+  162  nano html
+  163  cd html/
+  164  ls
+  165  sudo nano index.html
+  166  cd ..
+  167  mkdir public_html
+  168  sudo mkdir public_html
+  169  cd public_html/
+  170  touch index.php
+  171  sudo touch index.php
+  172  sudo nano index.php
+  173  sudo systemctl restart apache2
+  174  cd ..
+  175  rm public_html/
+  176  ls
+  177  cd ..
+  178  cd home/
+  179  cd ubuntu/
+  180  ls
+  181  mkdir public_html
+  182  ls
+  183  cd public_html/
+  184  touch index.php
+  185  nano index.php
+  186  sudo systemctl restart apache2
+  187  sudo systemctl status apache2
+  188  cd ~/tp
+  189  ls
+  190  cd apache2
+  191  cd apache2-2.4.58/
+  192  ls
+  193  cd debian/
+  194  ls
+  195  cd source/
+  196  ls
+  197  cd ..
+  198  cd config-dir/
+  199  ls
+  200  cd conf-available/
+  201  ls
+  202  cd ..
+  203  cd sites-available/
+  204  ls
+  205  sudo 000-default.conf
+  206  sudo nano 000-default.conf
+  207  sudo nano default-ssl.conf
+  208  sudo nano 000-default.conf
+  209  cd ..
+  210  cd conf-available/
+  211  ls
+  212  sudo nano security.conf
+  213  cd ..
+  214  cd sites-available/
+  215  sudo systemctl restart apache2
+  216  ls
+  217  cd 000-default.conf
+  218  sudo nano 000-default.conf
+  219  cd ..
+  220  debuild -b -uc -us
+  221  sudo apt install dev-scripts
+  222  sudo apt install dev-script
+  223  sudo apt install devscript
+  224  sudo apt install devscripts
+  225  debuild -b -uc -us
+  226  sudo debuild -b -uc -us
+  227  cd ls
+  228  ls
+  229  cd debian/config-dir/
+  230  cd conf-available/
+  231  cd ..
+  232  cd sites-available/
+  233  sudo nano 000-default.conf
+  234  cd ../../..
+  235  sudo debuild -b -uc -us
+  236  unexpand
+  237  unexpand debian/config-dir/sites-available/000-default.conf
+  238  cd debian/config-dir/
+  239  cd sites-available/
+  240  ls
+  241  sudo vim 000-default.conf
+  242  cd ../../..
+  243  sudo debuild -b -uc -us
+  244  ls
+  245  sudo apt install ../apache2_2.4.58-1ubuntu8.(_amd64.deb
+  246  sudo apt install ../apache2_2.4.58-1ubuntu8.5_amd64.deb
+  247  cd ..
+  248  ls
+  249  cd apache2
+  250  cd apache2-2.4.58/
+  251  ls
+  252  sudo apt install ../*.deb
+  253  sudo systemctl restart apache2
+  254  cd ../..
+  255  ls
+  256  cd public_html/
+  257  ls
+  258  touch index.html
+  259  cd ..
+  260  cd tp/
+  261  cd /etc/apache2/
+  262  ls
+  263  cd conf-available/
+  264  ls
+  265  cd ..
+  266  cd sites-available/
+  267  ls
+  268  sudo vim 000-default.conf
+  269  sudo a2enmod userdir
+  270  systemctl restart apache2
+  271  sudo systemctl restart apache2
+  272  man usermod
+  273  sudo usermod -aG ubuntu www -data
+  274  sudo usermod -aG ubuntu www-data
+  275  sudo reboot
+  276  chmod 755 /home/ubuntu/public_html
+  277  sudo chmod 755 /home/ubuntu/public_html
+  278  sudo chown ubuntu:ubuntu ~/public_html/
+  279  sudo chown ubuntu:ubuntu ~/public_html/home.php
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd etc/apache2
+  284  ls
+  285  cd tp/
+  286  ls
+  287  cd apache2-2.4.58/
+  288  ls
+  289  debuild -b -uc –us
+  290  sudo debuild -b -uc –us
+  291  sudo debuild -b -uc
+  292  sudo apt install ../*.deb
+  293  cd ..
+  294  ls
+  295  sudo add-apt-repository ppa:adiscon/v8-devel
+  296  sudo apt-get update
+  297  sudo apt-get install rsyslog
+  298  sudo nano /etc/rsyslog.conf
+  299  sudo systemctl restart rsyslog
+  300  service rsyslog restart
+  301  sudo service rsyslog restart
+  302  ip a
+  303  tail -f /var/log/auth.log
+  304  sudo tail -f /var/log/auth.log
+  305  cd /var/log/
+  306  ls
+  307  sudo nano /etc/rsyslog.conf
+  308  sudo service rsyslog restart
+  309  sudo tail -f /var/log/auth.log
+  310  ls
+  311  sudo service rsyslog restart
+  312  sudo reboot
+  313  cd /var/log/remote/
+  314  ls
+  315  tail -f ubuntu.log
+  316  tail -f rocky.log
+  317  tail -f centos.log
+  318  cd ..
+  319  cd ../../etc/rsyslog.conf
+  320  sudo nan cd ../../etc/rsyslog.conf
+  321  sudo nano cd ../../etc/rsyslog.conf
+  322  cd remote/
+  323  rm centos.log
+  324  sudo systemctl restart rsyslog
+  325  ls
+  326  tail -f centos.log
+  327  ls -l
+  328  chown syslog syslog centos.log
+  329  sudo chown syslog centos.log
+  330  ls -l
+  331  sudo chown syslog syslog centos.log
+  332  sudo chown syslog centos.log syslog
+  333  sudo chown -u syslog -g syslog centos.log
+  334  chown --help
+  335  sudo chown syslog:syslog centos.log
+  336  ls -l
+  337  tail -f centos.log
+  338  tail -f rocky.log
+  339  cd /etc/logrotate.d
+  340  ls
+  341  touch log-locaux.log
+  342  sudo touch log-locaux
+  343  sudo nano log-locaux
+  344  sudo touch log-remote
+  345  sudo nano log-remote
+  346  sudo systemctl restart logrotate
+  347  systemctl start logrotate
+  348  sudo systemctl start logrotate
+  349  sudo systemctl status logrotate
+  350  ls
+  351  sudo cat alternatives
+  352  sudo rm alternatives
+  353  ls
+  354  sudo systemctl status logrotate
+  355  sudo systemctl start logrotate
+  356  sudo systemctl status logrotate
+  357  sudo rm dpkg
+  358  sudo rm rsyslog
+  359  ls
+  360  sudo systemctl start logrotate
+  361  sudo systemctl status logrotate
+  362  cd /var/log/
+  363  ls
+  364  sudo nano log-locaux
+  365  sudo nano /etc/logrotate.d/log-locaux
+  366  ls
+  367  cd remote/
+  368  ls
+  369  cat centos.log
+  370  cd ..
+  371  tail -f messages
+  372  ls
+  373  tail -f auth.log
+  374  tail -f syslog
+  375  tail -f journal/69273d7fa83d47a9b67f3efc7633f20f/
+  376  tail -f remote/centos.log
+  377  tail -f remote/rocky.log
+  378  sudo nano /etc/rsyslog.d/50-default.conf
+  379  sudo nano /etc/rsyslog.conf
+  380  sudo systemctl restart rsyslog
+  381  sudo mkdir -p /var/log/remote
+  382  sudo touch /var/log/remote/auth/ubuntu.log
+  383  sudo chmod 640 /var/log/remote/auth/ubuntu.log
+  384  sudo chown syslog:syslog /var/log/remote/auth/ubuntu.log
+  385  mkdir remote/auth
+  386  sudo mkdir remote/auth
+  387  sudo touch /var/log/remote/auth/ubuntu.log
+  388  sudo chmod 640 /var/log/remote/auth/ubuntu.log
+  389  sudo chown syslog:syslog /var/log/remote/auth/ubuntu.log
+  390  ls
+  391  cd remote/
+  392  ls
+  393  cd auth/
+  394  ls
+  395  ls -l
+  396  sudo systemctl restart rsyslog
+  397  ls -l
+  398  ls
+  399  sudo systemctl staus rsyslog
+  400  sudo systemctl status rsyslog
+  401  sudo nano /etc/rsyslog.d/50-default.conf
+  402  sudo nano /etc/rsyslog.conf
+  403  sudo systemctl restart rsyslog
+  404  sudo systemctl status rsyslog
+  405  sudo nano /etc/rsyslog.conf
+  406  sudo systemctl restart rsyslog
+  407  sudo systemctl status rsyslog
+  408  sudo nano /etc/rsyslog.conf
+  409  sudo systemctl restart rsyslog
+  410  sudo systemctl status rsyslog
+  411  sudo systemctl restart rsyslog
+  412  sudo nano /etc/rsyslog.conf
+  413  sudo systemctl restart rsyslog
+  414  sudo systemctl status rsyslog
+  415  sudo nano /etc/rsyslog.conf
+  416  sudo systemctl restart rsyslog
+  417  sudo systemctl status rsyslog
+  418  sudo nano /etc/rsyslog.conf
+  419  sudo systemctl restart rsyslog
+  420  sudo systemctl status rsyslog
+  421  ls
+  422  cd ..
+  423  ls
+  424  tail -f centos.log
+  425  cd /var/log/
+  426  ls
+  427  cd /remote/
+  428  ls
+  429  cd remote
+  430  ls
+  431  cd auth/
+  432  ls
+  433  cd
+  434  ls
+  435  sudo -s
+  436  cd ../..
+  437  ls
+  438  cd /opt/
+  439  ls
+  440  sudo ls
+  441  ls -a
+  442  cd ..
+  443  cd sys
+  444  ls
+  445  cd ..
+  446  cd usr/
+  447  disconnet
+  448  quit
+  449  exit
+  450  history
