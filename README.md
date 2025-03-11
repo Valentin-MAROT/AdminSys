@@ -3,7 +3,7 @@ Commandes utilisés dans le cadre des cours d'administrations système
 
 # Machines utilisées
 ## Ubuntu
-  - Installation d'un serveur apache
+  - Installation d'un serveur apache et d'un espace personnel pour chaque utilisateur
   - Installation d'un serveur et d'un client zabbix pour collecter les données des autres machines
   - Installation d'un serveur dhcp, tftp, pxe
 
